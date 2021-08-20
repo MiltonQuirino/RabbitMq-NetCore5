@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{03E97A74-0F01-499C-BA45-CF0CCF819B25}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/MessagesController.cs">
+    <Files>
+      <File FileName="Controllers/WeatherForecastController.cs" Line="15" Column="9" />
+      <File FileName="Controllers/MessagesController.cs" Line="42" Column="38" />
+      <File FileName="Models/MessageInputModel.cs" Line="6" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MTNMessages" expanded="True">
+            <Node name="MTNMessages" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MTNMessages PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
